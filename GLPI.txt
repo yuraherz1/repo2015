@@ -1,0 +1,3 @@
+shop: alberto
+purchase date: 19.05.15
+warranty: 36
